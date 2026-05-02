@@ -242,6 +242,7 @@ Software packages sorted by Gitub Stars.
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 - [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells and generates multiple cell embeddings from single cell RNAseq profiles. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
 - [scDEED](https://github.com/JSB-UCLA/scDEED) - [R] optimizing hyperparameters of UMAP/t-SNE, assigning each embedding a “reliability score” by permutation , manuscript open access: [Statistical method scDEED for detecting dubious 2D single-cell embeddings and optimizing t-SNE and UMAP hyperparameters](https://www.nature.com/articles/s41467-024-45891-y)
+- [p-SNE](https://github.com/NogaMudrik/PSNE-Poisson-Stochastic-Neighbor-Embedding) - [Python] - Poisson Stochastic Neighbor Embedding, a nonlinear dimensionality reduction method for sparse count data using Poisson KL divergence and Hellinger distance. [Paper](https://arxiv.org/abs/2604.16932).
 
 ### Archetypal analysis
 
